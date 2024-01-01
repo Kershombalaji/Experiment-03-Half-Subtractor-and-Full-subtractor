@@ -1,5 +1,4 @@
-## Experiment 04-Half Subtractor and Full Subtractor
-## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
+## Experiment 04-Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 
 ### NAME : BALAJI V
 ### REGISTER NUMBER: 212223050008
