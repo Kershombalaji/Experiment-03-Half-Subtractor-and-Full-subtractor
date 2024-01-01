@@ -1,4 +1,4 @@
-## Experiment 04-Implementation of Half Subtractor and Full Subtractor Circuit
+## Experiment 04-Implementation of Half Subtractor and Full Subtractor Circuit using Verilog HDL.
 
 ### NAME : BALAJI V
 ### REGISTER NUMBER: 212223050008
