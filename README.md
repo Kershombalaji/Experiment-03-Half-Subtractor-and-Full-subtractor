@@ -1,8 +1,8 @@
-### Experiment 04-Half Subtractor and Full Subtractor
+## Experiment 04-Half Subtractor and Full Subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 
-## NAME : BALAJI V
-## REGISTER NUMBER: 212223050008
+### NAME : BALAJI V
+### REGISTER NUMBER: 212223050008
 
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
